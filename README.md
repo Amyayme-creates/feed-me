@@ -1,7 +1,7 @@
 # 🍴 Feed Me
 ### Plan it. Prep it. Cut the crap.
 
-Your personal whole-foods meal planning app — built for Amy & Shawn.
+Your personal whole-foods meal planning app — built for Amy & Shawn!
 
 ---
 
